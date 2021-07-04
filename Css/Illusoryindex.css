@@ -109,11 +109,11 @@ li1{
 	transition: width .2s;
 }
 #bigcontainer{
-	width: 1500px;
+	width: 1000px;
 	margin: 0 auto;
 }
 #main1{
-	width: 1500px;
+	width: 1000px;
 	margin: 0 auto;
 }
 .section1{
@@ -161,14 +161,14 @@ li1{
 }
 #main2{
 	width: 50%;
-	height: 900px;
+	height: 750px;
 	margin: 0px auto;
 	float: left;
 }
 /*content 2*/
 .content2{
 	width: 100%;
-	height: 450px;
+	height: 350px;
 	display: flex;
 	align-items: flex-end;
 	background: url("../Hình ảnh/Marvel Future Fight 5.jpg");
@@ -203,7 +203,7 @@ li1{
 /*Content 3*/
 .content3{
 	width: 100%;
-	height: 450px;
+	height: 350px;
 	display: flex;
 	align-items: flex-end;
 	background: url("../Hình ảnh/The Rising Of The Shield Hero.jpg");
@@ -239,14 +239,14 @@ li1{
 /*content 4*/
 #main4{
 	width: 48%;
-	height: 900px;
+	height: 750px;
 /*	background: rgba(159,30,32,1.00);*/
 	margin: 0 auto;
 	float: right;
 }
 .content4{
 	width: 100%;
-	height: 920px;
+	height: 770px;
 	display: flex;
 	align-items: flex-end;
 	background: url("../Hình ảnh/Marvel Luna Snow.jpg");
@@ -280,11 +280,11 @@ li1{
 /*content 5*/
 #main5{
 	width: 100%;
-	height: 450px;
+	height: 350px;
 }
 .content5{
 	width: 100%;
-	height: 450px;
+	height: 350px;
 	display: flex;
 	align-items: flex-end;
 	background-image: url("../Hình ảnh/Mothra.jpg");
